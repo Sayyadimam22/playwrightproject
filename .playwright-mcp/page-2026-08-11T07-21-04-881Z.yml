@@ -1,0 +1,448 @@
+- generic [ref=f9e1]:
+  - link "Skip to main content" [ref=f9e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - link "Skip to footer" [ref=f9e3] [cursor=pointer]:
+    - /url: "#footer"
+  - generic [ref=f9e6]:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - banner:
+              - navigation "Main navigation" [ref=f9e7]:
+                - generic [ref=f9e8]:
+                  - button "Open main menu" [ref=f9e9] [cursor=pointer]
+                  - generic [ref=f9e14]:
+                    - link "Go to Infosys Home" [ref=f9e15] [cursor=pointer]:
+                      - /url: https://www.infosys.com
+                    - list [ref=f9e19]:
+                      - listitem [ref=f9e20]:
+                        - link "Navigate your next" [ref=f9e21] [cursor=pointer]:
+                          - /url: /navigate-your-next.html
+                      - listitem [ref=f9e22]:
+                        - link "Investors" [ref=f9e23] [cursor=pointer]:
+                          - /url: /investors.html
+                      - listitem [ref=f9e24]:
+                        - link "Infosys Knowledge Institute" [ref=f9e25] [cursor=pointer]:
+                          - /url: /iki.html
+                      - listitem [ref=f9e26]:
+                        - link "Careers" [ref=f9e27] [cursor=pointer]:
+                          - /url: /careers/
+                  - button "Ask AI" [ref=f9e29] [cursor=pointer]
+            - text:   
+    - main [ref=f9e32]:
+      - generic [ref=f9e33]:
+        - article [ref=f9e36]:
+          - group "1 / 1" [ref=f9e38]:
+            - generic [ref=f9e41]:
+              - generic:
+                - generic [ref=f9e42]: Enterprise AI is a Mountain
+                - generic [ref=f9e44]: Meet Leon your expert guide
+                - generic [ref=f9e47]: Don't Navigate AI Alone
+                - heading "Navigate your next" [level=1] [ref=f9e51]:
+                  - generic [ref=f9e52]: Navigate
+                  - generic [ref=f9e53]: your
+                  - generic [ref=f9e54]: next
+              - generic [ref=f9e57]:
+                - paragraph [ref=f9e59]: "Special characters are not allowed. Maximum length: 1000 characters."
+                - generic [ref=f9e60]:
+                  - button "Search with voice" [ref=f9e61] [cursor=pointer]:
+                    - img "Search with voice"
+                  - textbox [ref=f9e63]:
+                    - /placeholder: Ask me anything
+                  - generic [ref=f9e70]:
+                    - list [ref=f9e72]:
+                      - listitem [ref=f9e73]:
+                        - link "Accelerate with Infosys Topaz" [ref=f9e74] [cursor=pointer]:
+                          - /url: "#"
+                      - listitem [ref=f9e75]:
+                        - link "Discover the power of Infosys Cobalt" [ref=f9e76] [cursor=pointer]:
+                          - /url: "#"
+                      - listitem [ref=f9e77]:
+                        - link "Insights from Infosys Bank Tech Index" [ref=f9e78] [cursor=pointer]:
+                          - /url: "#"
+                    - paragraph [ref=f9e80]: Content is generated with AI assistance
+                    - generic [ref=f9e81]:
+                      - button "Privacy Notice" [ref=f9e82] [cursor=pointer]
+                      - button "Search" [disabled] [ref=f9e88]:
+                        - generic [ref=f9e89]: 
+              - generic [ref=f9e91]:
+                - generic [ref=f9e93]:
+                  - heading "Infosys drives hybrid cloud-powered innovation for Team Global Express" [level=2] [ref=f9e94]
+                  - paragraph [ref=f9e95]:
+                    - link "Know More" [ref=f9e96] [cursor=pointer]:
+                      - /url: https://www.infosys.com/newsroom/press-releases/2024/drives-hybrid-cloud-powered-innovation.html
+                - generic [ref=f9e98]:
+                  - heading "Prologis’ Digital Transformation Journey with Infosys" [level=2] [ref=f9e99]
+                  - paragraph [ref=f9e100]:
+                    - link "Know More" [ref=f9e101] [cursor=pointer]:
+                      - /url: https://www.infosys.com/industries/engineering-procurement-construction/case-studies/prologis-digital.html
+                - generic [ref=f9e103]:
+                  - heading "The top 10 AI imperatives for 2026" [level=2] [ref=f9e104]
+                  - paragraph [ref=f9e105]:
+                    - link "Know More" [ref=f9e106] [cursor=pointer]:
+                      - /url: /iki/perspectives/top10-ai-imperatives-2026.html
+                - generic [ref=f9e108]:
+                  - heading "Infosys AI-first GCC Index 2026" [level=2] [ref=f9e109]
+                  - paragraph [ref=f9e110]:
+                    - link "Know More" [ref=f9e111] [cursor=pointer]:
+                      - /url: /iki/documents/ai-first-gcc-index-2026.pdf
+        - generic [ref=f9e113]:
+          - article [ref=f9e114]:
+            - heading "Top Stories" [level=2] [ref=f9e117]
+          - article [ref=f9e118]:
+            - generic [ref=f9e121]:
+              - generic [ref=f9e122]:
+                - button "Previous slide" [disabled] [ref=f9e123]: 
+                - generic [ref=f9e124]: 1 / 6
+                - button "Next slide" [ref=f9e125] [cursor=pointer]: 
+              - generic [ref=f9e126]:
+                - group "1 / 6" [ref=f9e127]:
+                  - generic [ref=f9e130]:
+                    - generic [ref=f9e131]:
+                      - heading "Meet Infosys Leon" [level=3] [ref=f9e132]
+                      - paragraph [ref=f9e133]: Meet Infosys Leon, The expert guide who helps leaders unlock enterprise AI value across terrains. Don't climb AI alone.
+                    - link "Read More " [ref=f9e135] [cursor=pointer]:
+                      - /url: /navigate-ai.html
+                      - text: Read More
+                      - generic [ref=f9e136]: 
+                - group "2 / 6" [ref=f9e137]:
+                  - generic [ref=f9e140]:
+                    - 'heading "Infosys Unveils AI First Value Framework: Uniquely Positioned to Capture New AI Services Opportunity of Over $300 Billion" [level=3] [ref=f9e142]'
+                    - link "Read More " [ref=f9e144] [cursor=pointer]:
+                      - /url: /newsroom/press-releases/2026/unveils-ai-first-value-framework.html
+                      - text: Read More
+                      - generic [ref=f9e145]: 
+                - group "3 / 6" [ref=f9e146]:
+                  - generic [ref=f9e149]:
+                    - heading "Infosys is the Fastest Growing IT Services Brand Globally with a CAGR of 15% in Brand Value" [level=3] [ref=f9e151]
+                    - link "Read More " [ref=f9e153] [cursor=pointer]:
+                      - /url: /newsroom/press-releases/2026/top-3-it-services-brand-globally2026.html
+                      - text: Read More
+                      - generic [ref=f9e154]: 
+                - group "4 / 6" [ref=f9e155]:
+                  - generic [ref=f9e158]:
+                    - heading "7-Time Grand Slam Champion Carlos Alcaraz is Infosys Global Brand Ambassador" [level=3] [ref=f9e160]
+                    - link "Read More " [ref=f9e162] [cursor=pointer]:
+                      - /url: /newsroom/press-releases/2026/carlos-alcaraz-brand-ambassador.html
+                      - text: Read More
+                      - generic [ref=f9e163]: 
+                - group "5 / 6" [ref=f9e164]:
+                  - generic [ref=f9e167]:
+                    - heading "Infosys and AWS Collaborate to Accelerate Enterprise Adoption of Generative AI" [level=3] [ref=f9e169]
+                    - link "Read More " [ref=f9e171] [cursor=pointer]:
+                      - /url: /newsroom/press-releases/2026/accelerate-enterprise-adoption-generative-ai.html
+                      - text: Read More
+                      - generic [ref=f9e172]: 
+                - group "6 / 6" [ref=f9e173]:
+                  - generic [ref=f9e176]:
+                    - heading "Infosys and Cognition Announce Strategic Collaboration to Accelerate the AI Value Journey for Global Enterprises" [level=3] [ref=f9e178]
+                    - link "Read More " [ref=f9e180] [cursor=pointer]:
+                      - /url: /newsroom/press-releases/2026/collaboration-accelerate-ai-value-journey.html
+                      - text: Read More
+                      - generic [ref=f9e181]: 
+        - generic [ref=f9e185]:
+          - generic [ref=f9e186]:
+            - heading "Crafting Intelligent Experiences" [level=2] [ref=f9e187]
+            - paragraph [ref=f9e188]: Whether you're building your own models, transforming your cloud strategy, or amplifying your marketing efforts, data remains the biggest enabler of AI.
+            - link "I’m Curious" [ref=f9e189] [cursor=pointer]:
+              - /url: "#"
+              - text: I’m Curious
+              - generic [ref=f9e190]: 
+          - generic [ref=f9e192]:
+            - generic [ref=f9e194]:
+              - generic [ref=f9e200]:
+                - heading "Infosys Topaz" [level=3] [ref=f9e201]
+                - paragraph [ref=f9e202]: "Infosys Topaz : Adapts best-in-class foundation models for your business, ensuring sustainable and successful AI programs tailored to your specific data and enterprise needs."
+                - link "Learn More " [ref=f9e203] [cursor=pointer]:
+                  - /url: /services/data-ai-topaz.html
+                  - text: Learn More
+                  - generic [ref=f9e204]: 
+              - generic [ref=f9e210]:
+                - heading "Infosys Cobalt" [level=3] [ref=f9e211]
+                - paragraph [ref=f9e212]: Infosys Cobalt is a set of services, solutions, and platforms that acts as a force multiplier for cloud-powered enterprise transformation.
+                - link "Learn More " [ref=f9e213] [cursor=pointer]:
+                  - /url: /services/cloud-cobalt.html
+                  - text: Learn More
+                  - generic [ref=f9e214]: 
+              - generic [ref=f9e220]:
+                - heading "Infosys Aster" [level=3] [ref=f9e221]
+                - paragraph [ref=f9e222]: Infosys Aster empower marketers with the superpower of AI to create memorable customer experiences, increase efficiency, and drive growth
+                - link "Learn More " [ref=f9e223] [cursor=pointer]:
+                  - /url: /aster.html
+                  - text: Learn More
+                  - generic [ref=f9e224]: 
+            - text:  
+        - generic [ref=f9e228]:
+          - generic [ref=f9e229]:
+            - heading "AI In Action" [level=3] [ref=f9e230]
+            - paragraph [ref=f9e231]: For all enterprises, Infosys AI solutions improve your business by improving your data and cloud infrastructure. This leads to streamlined operations and enhanced decision-making capabilities. Ultimately, these improvements drive significant growth and a competitive edge.
+          - generic [ref=f9e233]:
+            - generic [ref=f9e235]:
+              - group "1 / 3" [ref=f9e236]:
+                - generic [ref=f9e239]:
+                  - 'img "Now Serving: Virtual Tennis" [ref=f9e241]'
+                  - generic [ref=f9e242]:
+                    - generic [ref=f9e243]: Case Study
+                    - 'heading "Now Serving: Virtual Tennis" [level=3] [ref=f9e244]'
+                    - paragraph [ref=f9e245]: Tennis is now on the Cloud and powered by Applied AI
+                    - link "I’m Curious" [ref=f9e247] [cursor=pointer]:
+                      - /url: https://www.infosys.com/navigate-your-next/tales-of-transformation/now-serving-virtual-tennis.html
+                      - text: I’m Curious
+                      - generic [ref=f9e248]: 
+              - group "2 / 3" [ref=f9e249]:
+                - generic [ref=f9e252]:
+                  - img "Digitally Empowered Energy Efficiency" [ref=f9e254]
+                  - generic [ref=f9e255]:
+                    - generic [ref=f9e256]: Case Study
+                    - heading "Digitally Empowered Energy Efficiency" [level=3] [ref=f9e257]
+                    - paragraph [ref=f9e258]: Energy-as-a-service – unlocking energy savings through digitalization
+                    - link "I’m Curious" [ref=f9e260] [cursor=pointer]:
+                      - /url: https://www.infosys.com/services/energy-transition/insights/ai-energy-transition/energy-as-a-service.html
+                      - text: I’m Curious
+                      - generic [ref=f9e261]: 
+              - group "3 / 3" [ref=f9e262]:
+                - generic [ref=f9e265]:
+                  - img "Crafting a Digital Enterprise that Navigates to Next" [ref=f9e267]
+                  - generic [ref=f9e268]:
+                    - generic [ref=f9e269]: Case Study
+                    - heading "Crafting a Digital Enterprise that Navigates to Next" [level=3] [ref=f9e270]
+                    - paragraph [ref=f9e271]: Kraft Heinz company delivers a taste of the future with a transformational data hub
+                    - link "I’m Curious" [ref=f9e273] [cursor=pointer]:
+                      - /url: https://www.infosys.com/navigate-your-next/tales-of-transformation/digitally-empowered-food-beverage.html
+                      - text: I’m Curious
+                      - generic [ref=f9e274]: 
+            - generic [ref=f9e276]:
+              - button "Previous slide" [disabled] [ref=f9e277]: 
+              - generic [ref=f9e278]:
+                - generic [ref=f9e279]: "1"
+                - text: /
+                - generic [ref=f9e280]: "2"
+              - button "Next slide" [ref=f9e281] [cursor=pointer]: 
+        - generic [ref=f9e283]:
+          - generic [ref=f9e287]:
+            - heading "Industries and Services" [level=3] [ref=f9e288]
+            - paragraph [ref=f9e289]: As strategic advisors, we build programs that help enterprises operate stronger today and prepare for tomorrow.
+          - generic [ref=f9e294]:
+            - link "Services " [ref=f9e296] [cursor=pointer]:
+              - /url: /services.html
+            - link "Financial Services " [ref=f9e298] [cursor=pointer]:
+              - /url: /industries/financial-services.html
+            - link "Industrial Manufacturing " [ref=f9e300] [cursor=pointer]:
+              - /url: /industries/industrial-manufacturing.html
+            - link "Utilities " [ref=f9e302] [cursor=pointer]:
+              - /url: /industries/utilities.html
+            - link "Insurance " [ref=f9e304] [cursor=pointer]:
+              - /url: /industries/insurance.html
+            - link "Oil and Gas " [ref=f9e306] [cursor=pointer]:
+              - /url: /industries/oil-and-gas.html
+            - link "Healthcare " [ref=f9e308] [cursor=pointer]:
+              - /url: /industries/healthcare.html
+            - link "Consumer Products " [ref=f9e310] [cursor=pointer]:
+              - /url: /industries/consumer-packaged-goods.html
+            - link "Energy Transition " [ref=f9e312] [cursor=pointer]:
+              - /url: /services/energy-transition.html
+            - link "Life Sciences " [ref=f9e314] [cursor=pointer]:
+              - /url: /industries/life-sciences.html
+            - link "Retail & Logistics " [ref=f9e316] [cursor=pointer]:
+              - /url: /industries/retail.html
+            - link "Communications Services " [ref=f9e318] [cursor=pointer]:
+              - /url: /industries/communication-services.html
+        - generic [ref=f9e322]:
+          - generic [ref=f9e325]:
+            - heading "Research, Announcements & Thought Leadership" [level=3] [ref=f9e326]
+            - paragraph [ref=f9e327]: Connecting ideas to impact - bringing together news, insights, perspectives, and decisions that shape the future
+          - generic [ref=f9e328]:
+            - generic [ref=f9e329]:
+              - generic [ref=f9e332]:
+                - img "Infosys at Databricks Data + AI Summit 2026" [ref=f9e335]
+                - generic [ref=f9e337]:
+                  - generic [ref=f9e338]: Event
+                  - heading "Infosys at Databricks Data + AI Summit 2026" [level=3] [ref=f9e339]
+                  - paragraph [ref=f9e340]: 15th – 18th June, 2026 | Moscone Center, San Francisco, Booth 203
+                  - paragraph [ref=f9e341]: Infosys is participating as a Legend Sponsor at Databricks Data + AI Summit 2026, Databricks’ flagship global conference and the world’s largest gathering of the data and AI community.
+                  - link "Read More about" [ref=f9e343] [cursor=pointer]:
+                    - /url: /newsroom/events/2026/databricks-data-ai-summit.html
+                    - text: Read More
+                    - generic [ref=f9e344]: 
+              - generic [ref=f9e347]:
+                - 'img "Agentic commerce: How to build agent-aware digital ecosystems for AI-powered retail" [ref=f9e350]'
+                - generic [ref=f9e352]:
+                  - generic [ref=f9e353]: Insights
+                  - 'heading "Agentic commerce: How to build agent-aware digital ecosystems for AI-powered retail" [level=3] [ref=f9e354]'
+                  - link "Read More" [ref=f9e356] [cursor=pointer]:
+                    - /url: /iki/perspectives/agent-aware-digital-ecosystems.html
+                    - text: Read More
+                    - generic [ref=f9e357]: 
+            - generic [ref=f9e358]:
+              - generic [ref=f9e361]:
+                - img "Infosys and Formula E Launch AI-Powered Race Centre, Taking Fan Experience to Pole Position" [ref=f9e364]
+                - generic [ref=f9e366]:
+                  - generic [ref=f9e367]: News
+                  - heading "Infosys and Formula E Launch AI-Powered Race Centre, Taking Fan Experience to Pole Position" [level=3] [ref=f9e368]
+                  - link "Read More" [ref=f9e370] [cursor=pointer]:
+                    - /url: /newsroom/press-releases/2026/launch-ai-powered-race-centre.html
+                    - text: Read More
+                    - generic [ref=f9e371]: 
+              - generic [ref=f9e374]:
+                - 'img "SAP Journal : Make your business unstoppable" [ref=f9e377]'
+                - generic [ref=f9e379]:
+                  - generic [ref=f9e380]: Report
+                  - 'heading "SAP Journal : Make your business unstoppable" [level=3] [ref=f9e381]'
+                  - paragraph [ref=f9e382]: In a rapidly changing business environment, the need for stable and reliable core operations remains constant. What has grown more complex is the expectation that these systems also support agility, insight, and AI enabled decision making. SAP S/4HANA plays an increasingly central role in helping organizations meet these evolving demands.
+                  - link "Read more" [ref=f9e384] [cursor=pointer]:
+                    - /url: /iki/research/sap-journal-business-unstoppable.html
+                    - text: Read More
+                    - generic [ref=f9e385]: 
+            - generic [ref=f9e389]:
+              - generic [ref=f9e393]:
+                - generic [ref=f9e394]: Investors
+                - heading "Integrated Annual Report 2026" [level=3] [ref=f9e395]
+                - paragraph [ref=f9e396]: Unlock AI Value
+                - link "Read more" [ref=f9e398] [cursor=pointer]:
+                  - /url: /investors/reports-filings/annual-report/annual/documents/infosys-ar-26.pdf
+                  - text: Read More
+                  - generic [ref=f9e399]: 
+              - generic [ref=f9e401]:
+                - heading "First Quarter FY27 Results" [level=3] [ref=f9e402]
+                - paragraph [ref=f9e403]: Infosys announces results for the first quarter ended June 30, 2026 on Thursday, July 23, 2026.
+                - link "Read more" [ref=f9e405] [cursor=pointer]:
+                  - /url: /investors/reports-filings/quarterly-results/2026-2027/q1.html
+                  - text: Read More
+                  - generic [ref=f9e406]: 
+        - generic [ref=f9e414]:
+          - generic [ref=f9e415]: Careers
+          - heading "Build your future with Infosys" [level=4] [ref=f9e416]
+          - paragraph [ref=f9e417]: The next-generation AI-first, digital-first, cloud-first partner, we stand at the forefront of business evolution.
+          - link "Explore Careers" [ref=f9e418] [cursor=pointer]:
+            - /url: /careers.html
+            - text: Explore Careers
+            - generic [ref=f9e419]: 
+    - generic [ref=f9e423]:
+      - contentinfo [ref=f9e424]:
+        - navigation "Footer navigation" [ref=f9e425]:
+          - article [ref=f9e426]:
+            - generic [ref=f9e427]:
+              - generic [ref=f9e428]:
+                - paragraph [ref=f9e429]: Subsidiaries
+                - list [ref=f9e430]:
+                  - listitem [ref=f9e431]:
+                    - link "EdgeVerve Systems" [ref=f9e432] [cursor=pointer]:
+                      - /url: https://www.edgeverve.com/
+                  - listitem [ref=f9e433]:
+                    - link "Infosys BPM" [ref=f9e434] [cursor=pointer]:
+                      - /url: https://www.infosysbpm.com/
+                  - listitem [ref=f9e435]:
+                    - link "Infosys Consulting" [ref=f9e436] [cursor=pointer]:
+                      - /url: /services/consulting.html
+                  - listitem [ref=f9e437]:
+                    - link "Infosys Public Services" [ref=f9e438] [cursor=pointer]:
+                      - /url: https://www.infosyspublicservices.com/
+              - generic [ref=f9e439]:
+                - paragraph [ref=f9e440]: Programs
+                - list [ref=f9e441]:
+                  - listitem [ref=f9e442]:
+                    - link "Infosys Foundation" [ref=f9e443] [cursor=pointer]:
+                      - /url: https://www.infosys.org/infosys-foundation.html
+                  - listitem [ref=f9e444]:
+                    - link "Infosys Foundation USA" [ref=f9e445] [cursor=pointer]:
+                      - /url: https://www.infosys.org/infosys-foundation-usa.html
+                  - listitem [ref=f9e446]:
+                    - link "Infosys Science Foundation" [ref=f9e447] [cursor=pointer]:
+                      - /url: https://www.infosysprize.org/
+                  - listitem [ref=f9e448]:
+                    - link "Infosys Leadership Institute" [ref=f9e449] [cursor=pointer]:
+                      - /url: /leadership-institute.html
+              - generic [ref=f9e450]:
+                - paragraph [ref=f9e451]: Company
+                - list [ref=f9e452]:
+                  - listitem [ref=f9e453]:
+                    - link "About Us" [ref=f9e454] [cursor=pointer]:
+                      - /url: /about.html
+                  - listitem [ref=f9e455]:
+                    - link "Investors" [ref=f9e456] [cursor=pointer]:
+                      - /url: /investors.html
+                  - listitem [ref=f9e457]:
+                    - link "Navigate your next" [ref=f9e458] [cursor=pointer]:
+                      - /url: /navigate-your-next.html
+                  - listitem [ref=f9e459]:
+                    - link "Careers" [ref=f9e460] [cursor=pointer]:
+                      - /url: /careers/
+                  - listitem [ref=f9e461]:
+                    - link "ESG" [ref=f9e462] [cursor=pointer]:
+                      - /url: /about/esg.html
+                  - listitem [ref=f9e463]:
+                    - link "Newsroom" [ref=f9e464] [cursor=pointer]:
+                      - /url: /newsroom.html
+                  - listitem [ref=f9e465]:
+                    - link "Alumni" [ref=f9e466] [cursor=pointer]:
+                      - /url: https://alumni.infosys.com/app-welcome
+              - generic [ref=f9e467]:
+                - paragraph [ref=f9e468]: Support
+                - list [ref=f9e469]:
+                  - listitem [ref=f9e470]:
+                    - link "Terms of Use" [ref=f9e471] [cursor=pointer]:
+                      - /url: /terms-of-use.html
+                  - listitem [ref=f9e472]:
+                    - link "Privacy Statement" [ref=f9e473] [cursor=pointer]:
+                      - /url: /privacy-statement.html
+                  - listitem [ref=f9e474]:
+                    - link "Cookie Policy" [ref=f9e475] [cursor=pointer]:
+                      - /url: /privacy-statement/cookie-policy.html
+                  - listitem [ref=f9e476]:
+                    - link "Safe Harbour Provision" [ref=f9e477] [cursor=pointer]:
+                      - /url: /safe-harbor-provision.html
+                  - listitem [ref=f9e478]:
+                    - link "Site Map" [ref=f9e479] [cursor=pointer]:
+                      - /url: /sitemap.html
+                  - listitem [ref=f9e480]:
+                    - link "Modern Slavery Statement" [ref=f9e481] [cursor=pointer]:
+                      - /url: /investors/corporate-governance/documents/statement-under-modern-slavery-act.pdf
+                  - listitem [ref=f9e482]:
+                    - link "Payment Guide for Suppliers" [ref=f9e483] [cursor=pointer]:
+                      - /url: /payment-information-suppliers.html
+          - article [ref=f9e484]:
+            - generic [ref=f9e486]:
+              - button "Select Location" [ref=f9e491] [cursor=pointer]:
+                - generic [ref=f9e492]: 
+                - text: Location
+                - generic [ref=f9e493]: 
+              - paragraph [ref=f9e495]: Copyright © 2026 Infosys Limited
+              - list [ref=f9e497]:
+                - listitem [ref=f9e498]:
+                  - link "Follow us on Facebook" [ref=f9e499] [cursor=pointer]:
+                    - /url: https://www.facebook.com/Infosys
+                    - generic [ref=f9e500]: 
+                    - generic [ref=f9e501]: 
+                - listitem [ref=f9e502]:
+                  - link "Follow us on LinkedIn" [ref=f9e503] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/infosys
+                    - generic [ref=f9e504]: 
+                    - generic [ref=f9e505]: 
+                - listitem [ref=f9e506]:
+                  - link "Follow us on X" [ref=f9e507] [cursor=pointer]:
+                    - /url: https://www.x.com/infosys
+                    - generic [ref=f9e508]: 
+                    - generic [ref=f9e509]: 
+                - listitem [ref=f9e510]:
+                  - link "Follow us on YouTube" [ref=f9e511] [cursor=pointer]:
+                    - /url: https://www.youtube.com/user/Infosys
+                    - generic [ref=f9e512]: 
+                    - generic [ref=f9e513]: 
+      - button "Go to Top":
+        - generic:
+          - generic:
+            - generic: 
+            - generic: 
+            - generic: 
+  - region "Cookie banner" [ref=f9e514]:
+    - alertdialog "Privacy" [ref=f9e515]:
+      - generic [ref=f9e517]:
+        - generic [ref=f9e520]:
+          - text: We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also disclose information about your use of our site with our social media, advertising and analytics partners. Additional details are available in our
+          - link "More information about your privacy, opens in a new tab" [active] [ref=f9e521] [cursor=pointer]:
+            - /url: https://www.infosys.com/privacy-statement/cookie-policy.html
+            - text: Cookie Policy
+        - generic [ref=f9e523]:
+          - button "Choose Cookies" [ref=f9e524] [cursor=pointer]
+          - button "Accept All Cookies" [ref=f9e525] [cursor=pointer]

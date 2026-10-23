@@ -1,0 +1,26 @@
+[    2791ms] [WARNING] Invalid property transformOrgin set to center center Missing plugin? gsap.registerPlugin() @ https://www.infosys.com/content/dam/infosys-web/en/new-design25/js/gsap.min.js:9
+[    2795ms] [WARNING] Invalid property transformOrgin set to center center Missing plugin? gsap.registerPlugin() @ https://www.infosys.com/content/dam/infosys-web/en/new-design25/js/gsap.min.js:9
+[    2796ms] [WARNING] Invalid property transformOrgin set to center center Missing plugin? gsap.registerPlugin() @ https://www.infosys.com/content/dam/infosys-web/en/new-design25/js/gsap.min.js:9
+[    3106ms] [LOG] Error, missing Report Suite ID in AppMeasurement initialization @ https://assets.adobedtm.com/74e18f4e72f4/2ec9c71af7d1/8ad13f0eb216/EX1db70749533b4b22bdbd18303e1fd0b2-libraryCode_source.min.js:1
+[    4409ms] [LOG] function(){return console.warn("No Vidyard Players found. (include this script below player embed codes)")} @ https://play.vidyard.com/embed/v4.js:0
+[    4413ms] [LOG] function(){return console.warn("No Vidyard Players found. (include this script below player embed codes)")} @ https://play.vidyard.com/embed/v4.js:0
+[    6171ms] [WARNING] Invalid property transformOrgin set to center center Missing plugin? gsap.registerPlugin() @ https://www.infosys.com/content/dam/infosys-web/en/new-design25/js/gsap.min.js:9
+[    6173ms] [WARNING] Invalid property transformOrgin set to center center Missing plugin? gsap.registerPlugin() @ https://www.infosys.com/content/dam/infosys-web/en/new-design25/js/gsap.min.js:9
+[    8163ms] [WARNING] Invalid property transformOrgin set to center center Missing plugin? gsap.registerPlugin() @ https://www.infosys.com/content/dam/infosys-web/en/new-design25/js/gsap.min.js:9
+[    8385ms] [WARNING] The resource https://www.infosys.com/content/dam/infosys-web/en/fonts/tungstenw05-medium.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.infosys.com/:0
+[    8691ms] [LOG] DTM rule @ :4
+[    8691ms] [LOG] DB WSS END @ :19
+[    9203ms] [LOG] [BC]Send the facebook init event 2052042418446823 @ https://cdn.blueconic.net/infosys.js:272
+[    9207ms] [LOG] [BC]Item will not be scraped due to incorrect type:  !== article @ https://cdn.blueconic.net/infosys.js:272
+[    9222ms] [WARNING] Invalid property transformOrgin set to center center Missing plugin? gsap.registerPlugin() @ https://www.infosys.com/content/dam/infosys-web/en/new-design25/js/gsap.min.js:9
+[    9223ms] [WARNING] Invalid property transformOrgin set to center center Missing plugin? gsap.registerPlugin() @ https://www.infosys.com/content/dam/infosys-web/en/new-design25/js/gsap.min.js:9
+[    9389ms] [WARNING] [Meta Pixel] - Duplicate Pixel ID: 1644930312482346. @ https://connect.facebook.net/en_US/fbevents.js:193
+[   11160ms] [WARNING] Invalid property transformOrgin set to center center Missing plugin? gsap.registerPlugin() @ https://www.infosys.com/content/dam/infosys-web/en/new-design25/js/gsap.min.js:9
+[   12161ms] [WARNING] Invalid property transformOrgin set to center center Missing plugin? gsap.registerPlugin() @ https://www.infosys.com/content/dam/infosys-web/en/new-design25/js/gsap.min.js:9
+[   12162ms] [WARNING] Invalid property transformOrgin set to center center Missing plugin? gsap.registerPlugin() @ https://www.infosys.com/content/dam/infosys-web/en/new-design25/js/gsap.min.js:9
+[   14025ms] [WARNING] The resource https://www.infosys.com/content/dam/infosys-web/en/fonts/tungstenw05-medium.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.infosys.com/:0
+[   14157ms] [WARNING] Invalid property transformOrgin set to center center Missing plugin? gsap.registerPlugin() @ https://www.infosys.com/content/dam/infosys-web/en/new-design25/js/gsap.min.js:9
+[   18150ms] [WARNING] The resource https://www.infosys.com/content/dam/infosys-web/en/fonts/tungstenw05-medium.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.infosys.com/:0
+[   24910ms] [WARNING] The resource https://www.infosys.com/content/dam/infosys-web/en/fonts/tungstenw05-medium.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.infosys.com/:0
+[   30196ms] [WARNING] The resource https://www.infosys.com/content/dam/infosys-web/en/fonts/tungstenw05-medium.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.infosys.com/:0
+[   72712ms] [WARNING] The resource https://www.infosys.com/content/dam/infosys-web/en/fonts/tungstenw05-medium.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.infosys.com/:0
